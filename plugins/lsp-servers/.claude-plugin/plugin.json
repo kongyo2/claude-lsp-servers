@@ -1,0 +1,12 @@
+{
+  "name": "lsp-servers",
+  "version": "1.0.0",
+  "description": "TypeScript language server for Claude Code on Windows",
+  "author": {
+    "name": "kongyo2",
+    "url": "https://github.com/kongyo2"
+  },
+  "repository": "https://github.com/kongyo2/claude-lsp-servers",
+  "license": "MIT",
+  "keywords": ["lsp", "typescript", "windows", "language-server", "code-intelligence"]
+}
