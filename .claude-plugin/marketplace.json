@@ -1,6 +1,6 @@
 {
   "name": "claude-lsp-servers",
-  "description": "TypeScript LSP plugin for Claude Code on Windows",
+  "description": "TypeScript LSP plugin",
   "owner": {
     "name": "kongyo2",
     "url": "https://github.com/kongyo2"
@@ -8,8 +8,8 @@
   "plugins": [
     {
       "name": "lsp-servers",
-      "description": "TypeScript language server (Windows-compatible: invokes typescript-language-server.cmd)",
-      "version": "1.0.0",
+      "description": "TypeScript language server",
+      "version": "1.0.1",
       "source": "./plugins/lsp-servers",
       "tags": ["lsp", "typescript", "windows", "code-intelligence"]
     }
